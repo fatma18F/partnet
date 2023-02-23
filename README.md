@@ -5,8 +5,10 @@ model trained on partnet dataset : chair categor level 1
 
 
 ![plot](./photos/newplot.png)
-![plot](./photos/newplot (1).png.png)
-![plot](./photos/newplot (2).png.png)
-![plot](./photos/newplot (3).png.png)
-![plot](./photos/newplot (4).png.png)
+
+![plot](./photos/newplot (1).png)
+
+![plot](./photos/newplot (2).png)
+![plot](./photos/newplot (3).png)
+![plot](./photos/newplot (4).png)
 
