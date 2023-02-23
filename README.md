@@ -1,5 +1,4 @@
-##  partnet
-Vizualization of Pointnet part segmentation 
+## Vizualization of Pointnet part segmentation 
 
 model trained on partnet dataset : chair categor level 1 
 
@@ -15,9 +14,9 @@ Part Name List:  [
 
 ![Screenshot](./photos/newplot.png) 
 
-![plot](./photos/newplot(2).png)
+![Screenshot](./photos/newplot (2).png)
 
-![plot](./photos/newplot(3).png)
+![Screenshot](./photos/newplot (3).png)
 
-![plot](./photos/newplot(4).png)
+![Screenshot](./photos/newplot (4).png)
 
