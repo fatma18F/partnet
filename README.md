@@ -1,6 +1,6 @@
-## Vizualization of Pointnet part segmentation 
+## Visualization of Pointnet part segmentation 
 
-model trained on partnet dataset : chair categor level 1 
+model trained on partnet dataset: category chair level 1 
 
 Part Name List:  [
 - chair/chair_head,
