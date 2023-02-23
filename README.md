@@ -10,13 +10,13 @@ Part Name List:  [
 - chair/chair_seat ]
 
 
-![Screenshot](./photos/newplot (1).png)
+![Screenshot](./photos/newplot1.png)
 
 ![Screenshot](./photos/newplot.png) 
 
-![Screenshot](./photos/newplot (2).png)
+![Screenshot](./photos/newplot2.png)
 
-![Screenshot](./photos/newplot (3).png)
+![Screenshot](./photos/newplot3.png)
 
-![Screenshot](./photos/newplot (4).png)
+![Screenshot](./photos/newplot4.png)
 
