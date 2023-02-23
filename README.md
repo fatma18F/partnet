@@ -13,7 +13,7 @@ Part Name List:  [
 
 ![plot](./photos/newplot.png)
 
-![plot](./photos/newplot(1).png)
+![plot](photos/newplot (1).png)
 
 ![plot](./photos/newplot(2).png)
 
