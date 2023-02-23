@@ -10,6 +10,8 @@ Part Name List:  [
 - chair/chair_seat ]
 
 
+![Screenshot](./newplot5.png)
+
 ![Screenshot](./photos/newplot1.png)
 
 ![Screenshot](./photos/newplot.png) 
