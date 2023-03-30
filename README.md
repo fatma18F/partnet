@@ -10,7 +10,8 @@ Part Name List:  [
 - chair/chair_seat ]
 
 #### part segmentation result:
--  
+![Screenshot](./photos/newplot43.png)
+
 ![Screenshot](./newplot5.png)
 #### part instance segmentation result:
 
