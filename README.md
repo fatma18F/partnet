@@ -9,16 +9,15 @@ Part Name List:  [
 - chair/chair_base,
 - chair/chair_seat ]
 
-
+#### part segmentation result:
+-  
 ![Screenshot](./newplot5.png)
+#### part instance segmentation result:
 
-![Screenshot](./photos/newplot1.png)
 
-![Screenshot](./photos/newplot.png) 
+![Screenshot](./photos/newplot41.png)
 
-![Screenshot](./photos/newplot2.png)
+![Screenshot](./photos/newplot42.png) 
 
-![Screenshot](./photos/newplot3.png)
 
-![Screenshot](./photos/newplot4.png)
 
