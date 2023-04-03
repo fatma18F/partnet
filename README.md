@@ -21,4 +21,13 @@ Part Name List:  [
 ![Screenshot](./photos/newplot42.png) 
 
 
+### per instance visualisation:
+- total instaces are 3 
+
+![Screenshot](./photos/newplot52.png) 
+![Screenshot](./photos/newplot51.png) 
+![Screenshot](./photos/newplot53.png) 
+
+
+
 
