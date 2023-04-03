@@ -32,7 +32,6 @@ for i in range(0,200):
    if n>1:
      n_instances+=1
 n_instances
-3
 ```
 total instaces are 3 
 
@@ -42,5 +41,17 @@ instance1             | instance2             | instance3
 ![Screenshot](./photos/newplot52.png) |  ![Screenshot](./photos/newplot53.png)  |  ![Screenshot](./photos/newplot51.png) 
 
 =>the 4 legs are in the same instace
+
+2.
+
+total instaces are 5
+
+instance1             | instance2             | instance3 
+:-------------------------:|:-------------------------:|:-------------------------:
+![Screenshot](./photos/newplot61.png) |  ![Screenshot](./photos/newplot62.png)  |  ![Screenshot](./photos/newplot63.png) 
+instance4             | instance5             
+:-------------------------:|:-------------------------:
+![Screenshot](./photos/newplot64.png) |  ![Screenshot](./photos/newplot65.png)  
+
 
 
