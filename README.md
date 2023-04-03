@@ -23,11 +23,18 @@ Part Name List:  [
 
 ### per instance visualisation:
 - total instaces are 3 
+´n_instances=0
+for i in range(0,200):
+   gt_instance=batch['masks'][1][i].float()
+   n=np.unique(gt_instance.ravel()).size
+   if n>1:
+     n_instances+=1
+n_instances´
 
 ![Screenshot](./photos/newplot52.png) 
-![Screenshot](./photos/newplot51.png) 
 ![Screenshot](./photos/newplot53.png) 
+![Screenshot](./photos/newplot51.png) 
 
-
+=>the 4 legs are in the same instace
 
 
