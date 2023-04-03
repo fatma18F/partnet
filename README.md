@@ -23,6 +23,7 @@ Exp1             | Exp2
 ![Screenshot](./photos/newplot41.png) |  ![Screenshot](./photos/newplot42.png) 
 
 ### per instance visualisation:
+1. 
 ```
 n_instances=0
 for i in range(0,200):
@@ -35,7 +36,7 @@ n_instances
 total instaces are 3 
 
 
-Exp1             | Exp2 Exp1             | Exp3 
+instance1             | instance2             | instance3 
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Screenshot](./photos/newplot52.png) |  ![Screenshot](./photos/newplot53.png)  |  ![Screenshot](./photos/newplot51.png) 
 
