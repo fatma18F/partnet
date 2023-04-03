@@ -9,6 +9,12 @@ Part Name List:  [
 - chair/chair_base,
 - chair/chair_seat ]
 
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![Screenshot](./photos/newplot43.png) |  ![Screenshot](./photos/newplot5.png)
+
+
 #### part segmentation result:
 ![Screenshot](./photos/newplot43.png)
 
