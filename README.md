@@ -12,7 +12,7 @@ Part Name List:  [
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![Screenshot](./photos/newplot43.png) |  ![Screenshot](./photos/newplot5.png)
+![Screenshot](./photos/newplot43.png) |  ![Screenshot](./newplot5.png)
 
 
 #### part segmentation result:
