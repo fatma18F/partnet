@@ -34,9 +34,10 @@ n_instances
 ```
 total instaces are 3 
 
-![Screenshot](./photos/newplot52.png) 
-![Screenshot](./photos/newplot53.png) 
-![Screenshot](./photos/newplot51.png) 
+
+Exp1             | Exp2 Exp1             | Exp3 
+:-------------------------:|:-------------------------:
+![Screenshot](./photos/newplot52.png) |  ![Screenshot](./photos/newplot53.png)  |  ![Screenshot](./photos/newplot51.png) 
 
 =>the 4 legs are in the same instace
 
