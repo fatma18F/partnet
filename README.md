@@ -32,6 +32,7 @@ for i in range(0,200):
    if n>1:
      n_instances+=1
 n_instances
+3
 ```
 total instaces are 3 
 
