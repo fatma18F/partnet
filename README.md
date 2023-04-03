@@ -18,11 +18,9 @@ Exp1             | Exp2
 
 #### part instance segmentation result:
 
-
-![Screenshot](./photos/newplot41.png)
-
-![Screenshot](./photos/newplot42.png) 
-
+Exp1             | Exp2
+:-------------------------:|:-------------------------:
+![Screenshot](./photos/newplot41.png) |  ![Screenshot](./photos/newplot42.png) 
 
 ### per instance visualisation:
 ```
