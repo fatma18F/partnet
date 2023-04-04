@@ -2,14 +2,16 @@
 
 model trained on partnet dataset: category chair
 
-##level 1 
+## Level 1 
 
+```
 Part Name List:  [
 - chair/chair_head,
 - chair/chair_back, 
 - chair/chair_arm, 
 - chair/chair_base,
 - chair/chair_seat ]
+```
 
 #### part segmentation result:
 
@@ -56,8 +58,8 @@ instance4             | instance5
 :-------------------------:|:-------------------------:
 ![Screenshot](./photos/newplot64.png) |  ![Screenshot](./photos/newplot65.png)  
 
-##level-3
-
+## Level-3
+```
 Part Name List:  [
 3 chair/chair_head/headrest leaf
 4 chair/chair_head/head_connector leaf
@@ -98,7 +100,7 @@ Part Name List:  [
 56 chair/footrest/chair_seat/seat_support leaf
 57 chair/footrest/chair_seat/seat_surface leaf
 ]
-
+```
 
 total instaces are 13
 
