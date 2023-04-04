@@ -1,6 +1,7 @@
 ## Visualization of Pointnet part segmentation 
 
 model trained on partnet dataset: category chair
+
 ##level 1 
 
 Part Name List:  [
@@ -56,6 +57,7 @@ instance4             | instance5
 ![Screenshot](./photos/newplot64.png) |  ![Screenshot](./photos/newplot65.png)  
 
 ##level-3
+
 Part Name List:  [
 3 chair/chair_head/headrest leaf
 4 chair/chair_head/head_connector leaf
