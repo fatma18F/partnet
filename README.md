@@ -2,6 +2,8 @@
 
 model trained on partnet dataset: category chair
 
+![Screenshot](./photos/unnamed.jpg)
+
 ## Level 1 
 
 ```
