@@ -106,7 +106,7 @@ Part Name List:  [
 ```
 ### part instance predictions:
 
-#### I) good predictions:
+#### 1) good predictions:
 
 - 1.
 
@@ -142,9 +142,9 @@ instance4             | instance5              | instance6
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Screenshot](./photos/newplot_32.png) |  ![Screenshot](./photos/newplot_33.png)  |   ![Screenshot](./photos/newplot_34.png)
 
-#### II) medium predictions:
+#### 2) medium predictions:
 
-##### predictions:
+-  predictions:
 
 ![Screenshot](./photos/newplot(35).png) 
 
@@ -165,7 +165,7 @@ instance10             | instance11
 ![Screenshot](./photos/newplot(45).png) |  ![Screenshot](./photos/newplot(46).png)  
 
 
-##### GT:
+- GT:
 
 instance1             | instance2             | instance3 
 :-------------------------:|:-------------------------:|:-------------------------:
