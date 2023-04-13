@@ -103,8 +103,8 @@ Part Name List:  [
 57 chair/footrest/chair_seat/seat_surface leaf
 ]
 ```
-
-total instaces are 13
+### part instance predictions:
+#### 1. good predictions:
 
 instance1             | instance2             | instance3 
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -127,7 +127,6 @@ instance13             |
 ![Screenshot](./photos/newplot(15).png) | 
 
 
-#### part instance predictions:
 ![Screenshot](./photos/newplot_28.png) | 
 
 instance1             | instance2             | instance3 
@@ -137,4 +136,13 @@ instance1             | instance2             | instance3
 instance4             | instance5              | instance6         
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Screenshot](./photos/newplot_32.png) |  ![Screenshot](./photos/newplot_33.png)  |   ![Screenshot](./photos/newplot_34.png)
+
+#### 2. medium predictions:
+
+![Screenshot](./photos/newplot\ (38).png) | 
+
+
+
+
+
 
