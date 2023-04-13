@@ -139,7 +139,7 @@ instance4             | instance5              | instance6
 
 #### 2. medium predictions:
 
-![Screenshot](./photos/newplot\ (38).png) | 
+![Screenshot](./photos/newplot (38).png) | 
 
 
 
