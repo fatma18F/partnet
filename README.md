@@ -19,7 +19,7 @@ Part Name List:  [
 
 Exp1             | Exp2
 :-------------------------:|:-------------------------:
-![Screenshot](./photos/newplot43.png) |  ![Screenshot](./newplot5.png)
+![Screenshot](./photos/newplot43.png) |  ![Screenshot](./photos/newplot5.png)
 
 
 #### part instance segmentation result:
