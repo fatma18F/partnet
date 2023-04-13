@@ -127,6 +127,14 @@ instance13             |
 ![Screenshot](./photos/newplot(15).png) | 
 
 
-#### part instance segmentation result:
+#### part instance predictions:
 ![Screenshot](./photos/newplot_28.png) | 
+
+instance1             | instance2             | instance3 
+:-------------------------:|:-------------------------:|:-------------------------:
+![Screenshot](./photos/newplot_29.png) |  ![Screenshot](./photos/newplot_30.png)  |  ![Screenshot](./photos/newplot_31.png) 
+
+instance4             | instance5              | instance6         
+:-------------------------:|:-------------------------:|:-------------------------:
+![Screenshot](./photos/newplot_32.png) |  ![Screenshot](./photos/newplot_33.png)  |   ![Screenshot](./photos/newplot_34.png)
 
