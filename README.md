@@ -139,8 +139,23 @@ instance4             | instance5              | instance6
 
 #### 2. medium predictions:
 
-![Screenshot](./photos/newplot (38).png) | 
+![Screenshot](./photos/newplot(35).png) | 
 
+instance1             | instance2             | instance3 
+:-------------------------:|:-------------------------:|:-------------------------:
+![Screenshot](./photos/newplot(36).png) |  ![Screenshot](./photos/newplot(37).png)  |  ![Screenshot](./photos/newplot(38).png) 
+
+instance4             | instance5              | instance6         
+:-------------------------:|:-------------------------:|:-------------------------:
+![Screenshot](./photos/newplot(39)ng) |  ![Screenshot](./photos/newplot(40).png)  |   ![Screenshot](./photos/newplot(41).png)
+
+instance7             | instance8              | instance9        
+:-------------------------:|:-------------------------:|:-------------------------:
+![Screenshot](./photos/newplot(42)ng) |  ![Screenshot](./photos/newplot(43).png)  |   ![Screenshot](./photos/newplot(44).png)
+
+instance10             | instance11                   
+:-------------------------:|:-------------------------:
+![Screenshot](./photos/newplot(45)ng) |  ![Screenshot](./photos/newplot(46).png)  | 
 
 
 
