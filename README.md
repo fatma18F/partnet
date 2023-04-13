@@ -108,7 +108,7 @@ Part Name List:  [
 
 #### I) good predictions:
 
-#### 1.
+- 1.
 
 instance1             | instance2             | instance3 
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -130,7 +130,7 @@ instance13             |
 :-------------------------:|
 ![Screenshot](./photos/newplot(15).png) | 
 
-2.
+- 2.
 
 ![Screenshot](./photos/newplot_28.png) 
 
