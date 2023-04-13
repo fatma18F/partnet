@@ -123,8 +123,9 @@ instance10             | instance11              | instance12
 ![Screenshot](./photos/newplot(12).png) |  ![Screenshot](./photos/newplot(13).png)  |   ![Screenshot](./photos/newplot(14).png)
 
 instance13             |         
-:-------------------------:
+:-------------------------:|
 ![Screenshot](./photos/newplot(15).png) | 
+
 
 
 ![Screenshot](./photos/newplot_28.png) | 
