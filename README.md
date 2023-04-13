@@ -15,21 +15,20 @@ Part Name List:  [
 - chair/chair_seat ]
 ```
 
-#### 1. part segmentation result:
+### 1. part segmentation result:
 
 Exp1             | Exp2
 :-------------------------:|:-------------------------:
 ![Screenshot](./photos/newplot43.png) |  ![Screenshot](./photos/newplot5.png)
 
 
-#### 2. part instance segmentation result:
+### 2. part instance segmentation result:
 
 Exp1             | Exp2
 :-------------------------:|:-------------------------:
 ![Screenshot](./photos/newplot41.png) |  ![Screenshot](./photos/newplot42.png) 
 
 ### 3. per instance gt visualisation:
-1. 
 ```
 n_instances=0
 for i in range(0,200):
@@ -39,6 +38,8 @@ for i in range(0,200):
      n_instances+=1
 n_instances
 ```
+1. 
+
 total instaces are 3 
 
 
@@ -107,7 +108,7 @@ Part Name List:  [
 
 #### I) good predictions:
 
-1.
+#### 1.
 
 instance1             | instance2             | instance3 
 :-------------------------:|:-------------------------:|:-------------------------:
