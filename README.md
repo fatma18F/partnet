@@ -15,20 +15,20 @@ Part Name List:  [
 - chair/chair_seat ]
 ```
 
-#### part segmentation result:
+#### 1. part segmentation result:
 
 Exp1             | Exp2
 :-------------------------:|:-------------------------:
 ![Screenshot](./photos/newplot43.png) |  ![Screenshot](./photos/newplot5.png)
 
 
-#### part instance segmentation result:
+#### 2. part instance segmentation result:
 
 Exp1             | Exp2
 :-------------------------:|:-------------------------:
 ![Screenshot](./photos/newplot41.png) |  ![Screenshot](./photos/newplot42.png) 
 
-### per instance visualisation:
+### 3. per instance gt visualisation:
 1. 
 ```
 n_instances=0
@@ -125,3 +125,8 @@ instance10             | instance11              | instance12
 instance13             |         
 :-------------------------:
 ![Screenshot](./photos/newplot(15).png) | 
+
+
+#### part instance segmentation result:
+![Screenshot](./photos/newplot_28.png) | 
+
