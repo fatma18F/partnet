@@ -104,8 +104,10 @@ Part Name List:  [
 ]
 ```
 ### part instance predictions:
+
 #### 1. good predictions:
 
+##### Exp 1:
 instance1             | instance2             | instance3 
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Screenshot](./photos/newplot(3).png) |  ![Screenshot](./photos/newplot(4).png)  |  ![Screenshot](./photos/newplot(5).png) 
@@ -126,7 +128,7 @@ instance13             |
 :-------------------------:|
 ![Screenshot](./photos/newplot(15).png) | 
 
-
+##### Exp 2:
 
 ![Screenshot](./photos/newplot_28.png) | 
 
@@ -139,6 +141,8 @@ instance4             | instance5              | instance6
 ![Screenshot](./photos/newplot_32.png) |  ![Screenshot](./photos/newplot_33.png)  |   ![Screenshot](./photos/newplot_34.png)
 
 #### 2. medium predictions:
+
+##### predictions:
 
 ![Screenshot](./photos/newplot(35).png) | 
 
@@ -157,6 +161,21 @@ instance7             | instance8              | instance9
 instance10             | instance11    |                  
 :-------------------------:|:-------------------------:|
 ![Screenshot](./photos/newplot(45).png) |  ![Screenshot](./photos/newplot(46).png)  | 
+
+
+##### GT:
+
+instance1             | instance2             | instance3 
+:-------------------------:|:-------------------------:|:-------------------------:
+![Screenshot](./photos/newplot(47).png) |  ![Screenshot](./photos/newplot(48).png)  |  ![Screenshot](./photos/newplot(49).png) 
+
+instance4             | instance5              | instance6         
+:-------------------------:|:-------------------------:|:-------------------------:
+![Screenshot](./photos/newplot(50).png) |  ![Screenshot](./photos/newplot(51).png)  |   ![Screenshot](./photos/newplot(52).png)
+
+instance7             | instance8              | instance9        
+:-------------------------:|:-------------------------:|:-------------------------:
+![Screenshot](./photos/newplot(53).png) |  ![Screenshot](./photos/newplot(54).png)  |   ![Screenshot](./photos/newplot(55).png)
 
 
 
