@@ -27,15 +27,15 @@ from os import path
 from tqdm import tqdm
 
 import wandb
-wandb.login()
+#wandb.login()
 
 # 🐝 initialise a wandb run
-wandb.init(
-        project="chair_level3-0",
-        config={
-            "epochs": 55,
-            "lr": 1e-3,
-            })
+#wandb.init(
+#        project="chair_level3-0",
+#        config={
+#            "epochs": 55,
+#            "lr": 1e-3,
+#            })
     
 # Copy your config 
 config = wandb.config
@@ -114,7 +114,17 @@ def main():
      print(device)
      pointnet.to(device);
 
-     train(pointnet, train_loader, val_loader,optimizer,device,  save=True)
+     #train(pointnet, train_loader, val_loader,optimizer,device,  save=True)
+
+     #load best weight
+     path='/home/fatma/Desktop/my work/weights/level3loss54_62.663.pth'
+     pointnet.load_state_dict(torch.load(path,map_location=torch.device('cpu')))
+     pointnet.eval()
+     batch = next(iter(val_loader))
+     
+     #print_acc(batch,pointnet)
+     myplot(batch)
+    
 
 if __name__ == "__main__":
     main()
