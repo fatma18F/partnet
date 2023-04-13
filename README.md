@@ -142,9 +142,9 @@ instance4             | instance5              | instance6
 
 #### 2. medium predictions:
 
-##### predictions:
+      ##### predictions:
 
-![Screenshot](./photos/newplot(35).png) | 
+![Screenshot](./photos/newplot(35).png) 
 
 instance1             | instance2             | instance3 
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -163,7 +163,7 @@ instance10             | instance11    |
 ![Screenshot](./photos/newplot(45).png) |  ![Screenshot](./photos/newplot(46).png)  | 
 
 
-##### GT:
+       ##### GT:
 
 instance1             | instance2             | instance3 
 :-------------------------:|:-------------------------:|:-------------------------:
